@@ -1,8 +1,7 @@
 var builder = WebApplication.CreateBuilder(args);
 
 
-//this is learning purpose
-// this is for testing purpose
+
 
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
